@@ -9,7 +9,7 @@
   <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/languages-4-blueviolet">
 
-  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made_by-Rocketseat-blueviolet">
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made_by-Pietro_Zanetti-blueviolet">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet">
 </p>
